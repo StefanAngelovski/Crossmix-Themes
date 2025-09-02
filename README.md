@@ -28,6 +28,10 @@ A collection of **custom themes** for the **Trimui Smart Pro** handheld, featuri
 | GTA Vice City | ![GTA Vice City preview](https://raw.githubusercontent.com/StefanAngelovski/Crossmix-Themes/main/GTA%20Vice%20City/preview.png?v=2) |
 | Jurassic Park | ![Jurassic Park preview](https://raw.githubusercontent.com/StefanAngelovski/Crossmix-Themes/main/Jurassic%20Park/preview.png?v=2) |
 | Jurassic Park III | ![Jurassic Park III preview](https://raw.githubusercontent.com/StefanAngelovski/Crossmix-Themes/main/Jurassic%20Park%20III/preview.png?v=2) |
+| Portal Reloaded | ![Portal Reloaded preview](https://raw.githubusercontent.com/StefanAngelovski/Crossmix-Themes/main/Portal%20Reloaded/preview.png?v=2) |
+| Spore | ![Spore preview](https://raw.githubusercontent.com/StefanAngelovski/Crossmix-Themes/main/Spore/preview.png?v=2) |
+| Terraria | ![Terraria preview](https://raw.githubusercontent.com/StefanAngelovski/Crossmix-Themes/main/Terraria/preview.png?v=2) |
+| Walking Dead Telltale - Season 1 | ![Walking Dead Telltale - Season 1 preview](https://raw.githubusercontent.com/StefanAngelovski/Crossmix-Themes/main/Walking%20Dead%20Telltale%20S1/preview.png?v=2) |
 | World of Warcraft - Deathwing | ![World of Warcraft - Deathwing preview](https://raw.githubusercontent.com/StefanAngelovski/Crossmix-Themes/main/World%20of%20Warcraft%20-%20Deathwing/preview.png?v=2) |
 | World of Warcraft - Lich King | ![World of Warcraft - Lich King preview](https://raw.githubusercontent.com/StefanAngelovski/Crossmix-Themes/main/World%20of%20Warcraft%20-%20Lich%20King/preview.png?v=2) |
 | World of Warcraft - Night Elf | ![World of Warcraft - Night Elf preview](https://raw.githubusercontent.com/StefanAngelovski/Crossmix-Themes/main/World%20of%20Warcraft%20-%20Night%20Elf/preview.png?v=2) |
